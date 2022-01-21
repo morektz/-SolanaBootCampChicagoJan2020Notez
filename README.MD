@@ -17,4 +17,5 @@ WARNING ! USING THE CONTENTS OF THIS REPO IN YOUR MAIN SOLANA DEV ENV WILL COMPL
 
 # What ?
 
-This is going to be actual work done from watching - [Solana Bootcamp Chicago Jan2022](https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0)
+This is going to be actual work done from watching - [Solana Bootcamp Chicago Jan2022](https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0) , This was mentioned initially in this - [TWEET](https://twitter.com/therealchaseeb/status/1483950614082113538?s=20)
+
