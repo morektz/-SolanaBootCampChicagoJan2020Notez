@@ -1,0 +1,29 @@
+#!/bin/bash
+# Script written from setting the solana path, since at he time of maing this unsure how to set global path 
+# variable in gitpod 
+# Command to execute here is 
+# $ . ./SetSolanaPath 
+./
+
+clear
+
+# Setting the solana path 
+
+echo -e "------------------------------------------------------"
+echo -e "This will set solana path and show the path of solana "
+echo -e "------------------------------------------------------"
+echo -e "The following commands will be run"
+echo -e "------------------------------------------------------"
+echo -e " "
+echo -e "source ~/.bashrc - For sourcing the bash "
+echo -e "e c h o $ PATH | grep solana - For displaying the path"
+echo -e "solana --version - Checking solana version"
+echo -e ""
+
+
+read -n 1 -s -r -p "Press any key to continue"
+
+export PATH="/home/gitpod/.local/share/solana/install/active_release/bin:$PATH"
+source ~/.bashrc
+echo $PATH | grep solana
+solana --version
