@@ -11,3 +11,10 @@ WARNING ! USING THE CONTENTS OF THIS REPO IN YOUR MAIN SOLANA DEV ENV WILL COMPL
     <img src="https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod"/>
 </p>
 
+<p align="center"><a href="https://bit.ly/morektz" target="_blank">
+  <img src=https://media.giphy.com/media/4qIGpUylyxV4I/giphy.gif alt="Morektz"/></a>
+</p>
+
+# What ?
+
+This is going to be actual work done from watching - [Solana Bootcamp Chicago Jan2022](https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0)
