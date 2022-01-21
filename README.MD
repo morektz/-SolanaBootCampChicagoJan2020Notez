@@ -1,4 +1,4 @@
-```
+```bash
 WARNING ! USING THE CONTENTS OF THIS REPO IN YOUR MAIN SOLANA DEV ENV WILL COMPLTELY FCK UP YOU WORK !! DO NOT USE!
 ```
 
@@ -10,3 +10,4 @@ WARNING ! USING THE CONTENTS OF THIS REPO IN YOUR MAIN SOLANA DEV ENV WILL COMPL
 <p align="center"><a href="https://gitpod.io/#https://github.com/morektz/SolanaBootCampChicagoJan2020Notez" target="_blank">
     <img src="https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod"/>
 </p>
+
